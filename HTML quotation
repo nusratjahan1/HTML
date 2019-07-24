@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Browsers usually indent blockquote elements.</p>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+Learning html for making a usable website and for our honorable teacher ABH3 sir.
+</blockquote>
+
+</body>
+</html>
